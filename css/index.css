@@ -22,12 +22,17 @@ h1, h2{
     /* color: white; */
 }
 
+.notaAlPie {
+    color: rgb(80, 71, 71);
+    ;
+}
+
+
 ul .lista-novedades {
     margin: 0;
     padding: 0;
     list-style: none;
     }
-
 
 .lista-novedades li {
     margin: 4px 0;
@@ -73,9 +78,8 @@ ul .lista-novedades {
 }
 
 .carousel-caption {
+    background-color:rgb(197, 197, 197, 0.5);
     text-align: center;
     padding: 50px 20px;
-    color: black;
+    text-shadow: black;
 }
-
-
